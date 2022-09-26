@@ -28,8 +28,8 @@ I want to advance in skills and knowledge. I want to find a really, really inter
 * Ryazan State Radio Engineering University named after V.F. Utkin
     + Faculty of Computer Science, department of Computer Aided Design of Computing Facilities
 * Courses
-    + **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/3775uhay))
-    + **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/a76k6q8t))
+    + **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/kuwjrqqi))
+    + **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/8pwjlcym))
     + **RS Schools** - «React 2022Q3» (in proggress)
 
 ## **Languages** ##
