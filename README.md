@@ -1,7 +1,14 @@
 ### Hi there 👋
 [![](https://www.codewars.com/users/KateBlazhko/badges/large)](https://www.codewars.com/users/KateBlazhko)  
+
+### Here's what I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateBlazhko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## **About me** ##
+**My Self-Introduction**\
+[![](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=sH9ukWkAmtA)\
+**My Work Profile**\
+[![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ekaterina-blazhko-919680223/)
 <!--
 **KateBlazhko/KateBlazhko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
