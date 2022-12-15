@@ -30,7 +30,7 @@ I want to advance in skills and knowledge. I want to find a really, really inter
 * Courses
     + **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/kuwjrqqi))
     + **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/8pwjlcym))
-    + **RS Schools** - «React 2022Q3» (in proggress)
+    + **RS Schools** - «React 2022Q3» ([certificate](https://app.rs.school/certificate/1bh53mqq))
 
 ## **Languages** ##
 * English - А2+
