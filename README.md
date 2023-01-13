@@ -2,7 +2,7 @@
 [![](https://www.codewars.com/users/KateBlazhko/badges/large)](https://www.codewars.com/users/KateBlazhko)  
 
 ### Here's what I use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateBlazhko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateBlazhko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **About me** ##
 **My Self-Introduction**\
